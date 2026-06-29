@@ -1,0 +1,1387 @@
+canonical_identifier: bkk:krp/KR3ek020/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ek020/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 萬氏秘傳外科心法
+  identifiers:
+    krp: KR3ek020
+  tags:
+    kr-categories: KR3ek
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek020.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek020_000-jc.yaml, hash: 'sha256:bfe8cd407b308649b698e5ea010bc849cc5b8dada44d16846e2d9c29e2bb68b1'}
+  - {seq: 1, filename: KR3ek020_001-jc.yaml, hash: 'sha256:b7d1ee3f8651330461525d90fb055f3c03cbc2d558b9ef86f34b3cc5e5d060df'}
+  - {seq: 2, filename: KR3ek020_002-jc.yaml, hash: 'sha256:1afb940e804b8a00a5f05e57568d1dda0ef27c3b8491c3ad622ddeb6674b4326'}
+  - {seq: 3, filename: KR3ek020_003-jc.yaml, hash: 'sha256:5b9c20e10f7108271be6ca9f676ef7fb59f0b6d0352d8e8a2212094659cfdcbf'}
+  - {seq: 4, filename: KR3ek020_004-jc.yaml, hash: 'sha256:4e618c5ce57e8ef00f4a73f9659c8a841113cb4d285049ee8c888ec6ddba2427'}
+  - {seq: 5, filename: KR3ek020_005-jc.yaml, hash: 'sha256:ebb78fcb255d65606bb9bd023b3b9eed1a4319e39b7a1ff8573268e8ab232897'}
+  - {seq: 6, filename: KR3ek020_006-jc.yaml, hash: 'sha256:178a4f209080c4a1c905ea92976099c14740fb7487e6a146f6aa1e0f8c573614'}
+  - {seq: 7, filename: KR3ek020_007-jc.yaml, hash: 'sha256:ab6f3d8cde63735a0de0209f8b7fd128fd133cd00d8807b496daf7e4ba44cf99'}
+  - {seq: 8, filename: KR3ek020_008-jc.yaml, hash: 'sha256:ff66525e023ddd2a48b38d7447f3934c5e6c3128e7209984bf85f047a0605b9d'}
+  - {seq: 9, filename: KR3ek020_009-jc.yaml, hash: 'sha256:03ae8588435641e0bbe0f4749b00b2d81d0900701e21616693ae1e2c7cf25d3e'}
+  - {seq: 10, filename: KR3ek020_010-jc.yaml, hash: 'sha256:d55bcdf784e2fafd8b386d5690169b40e3bbd1b3a21aca73e339bbf6bf815c78'}
+  - {seq: 11, filename: KR3ek020_011-jc.yaml, hash: 'sha256:79de3bd284722e03add7d23c5b870a696d9192f06ef98eba55e3fcef01ebeedf'}
+  - {seq: 12, filename: KR3ek020_012-jc.yaml, hash: 'sha256:22d0c86a7fea9628f4273e6bd1e86ccc8e98619ac5d4ef3922c83ce9af84952d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek020_000-jc.markers.yaml, hash: 'sha256:b27c272184504adf97a0d442fe5a6aedea6499b37b92ccad36eddd30c5990af2'}
+  - {seq: 1, role: markers, filename: assets/KR3ek020_001-jc.markers.yaml, hash: 'sha256:3c163aad7c6c5bcce1fbf9eaa53e407769d6fc52d22ad71cd0123fdeba85d707'}
+  - {seq: 2, role: markers, filename: assets/KR3ek020_002-jc.markers.yaml, hash: 'sha256:fe9ee21f46aa28e6a9cffa4c1ffb9684c3fe40caefcf5ef5b8c12d16041ee50f'}
+  - {seq: 3, role: markers, filename: assets/KR3ek020_003-jc.markers.yaml, hash: 'sha256:ee80a1f373776007675c4157e6b75518e6865667eb5b6e2b56311748779a94fa'}
+  - {seq: 4, role: markers, filename: assets/KR3ek020_004-jc.markers.yaml, hash: 'sha256:a59fe88331bdd648624af187d4f27eb2204f89c7a3c369307691dcd717e02881'}
+  - {seq: 5, role: markers, filename: assets/KR3ek020_005-jc.markers.yaml, hash: 'sha256:ed7c3f5763cb3c45902c74c6df5b77b78c9c892bfe20a37cb9fa6eb86fbb34be'}
+  - {seq: 6, role: markers, filename: assets/KR3ek020_006-jc.markers.yaml, hash: 'sha256:007d1c9bb34fd27d94c70acb847d23414bb178af96c39b0caeb40aea9fca74d0'}
+  - {seq: 7, role: markers, filename: assets/KR3ek020_007-jc.markers.yaml, hash: 'sha256:10016b112ac6689dc0f6cb5670d5e589c342b50028d8e06fe6330bf643fc0377'}
+  - {seq: 8, role: markers, filename: assets/KR3ek020_008-jc.markers.yaml, hash: 'sha256:143fcecde30865bb1dc959a727215cf10af59cd8015654fa00e27dd6240e8689'}
+  - {seq: 9, role: markers, filename: assets/KR3ek020_009-jc.markers.yaml, hash: 'sha256:d15ae55f26055cafe9e4a2c396906c927043d657f5a68df3f08a187e4c90db1e'}
+  - {seq: 10, role: markers, filename: assets/KR3ek020_010-jc.markers.yaml, hash: 'sha256:a22d34fc7ef9e066d7d2190ab90c14e85d7b61fa0ee751697b022a91271be745'}
+  - {seq: 11, role: markers, filename: assets/KR3ek020_011-jc.markers.yaml, hash: 'sha256:e2bd6beb3e8fb65c07d36607202a085f3c9a17d7017e23134b17f5c5f6c550f0'}
+  - {seq: 12, role: markers, filename: assets/KR3ek020_012-jc.markers.yaml, hash: 'sha256:88c77583b0d1a0a5941a786ae8e308ef9ffefde5c679aae5ff94ddc7f6d39f75'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek020_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 640
+  label: 贈萬密齋先生醫書序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek020_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 399
+  label: 敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ek020_jc_000-d4.h1s1
+    span:
+    - body
+    - 399
+    - 752
+  label: 敘萬氏幼科源流
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek020_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 4271
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek020_jc_001-d5d2
+    span:
+    - body
+    - 3
+    - 2008
+  label: 總論大法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek020_jc_001-d5d3
+    span:
+    - body
+    - 2008
+    - 4271
+  label: 附方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 2169
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6d2
+    span:
+    - body
+    - 3
+    - 2169
+  label: 背圖形八症一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d6
+    span:
+    - body
+    - 47
+    - 257
+  label: 腦發
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d7
+    span:
+    - body
+    - 257
+    - 456
+  label: 痄腮
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d8
+    span:
+    - body
+    - 456
+    - 1003
+  label: 上背發
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d9
+    span:
+    - body
+    - 1003
+    - 1389
+  label: 中背發
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d10
+    span:
+    - body
+    - 1389
+    - 1644
+  label: 下背發
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d11
+    span:
+    - body
+    - 1644
+    - 1934
+  label: 腰背發
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ek020_jc_002-d6.d2d12
+    span:
+    - body
+    - 1934
+    - 2169
+  label: 暗發騎馬癰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 1445
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7d2
+    span:
+    - body
+    - 3
+    - 1445
+  label: 背圖形八症二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d6
+    span:
+    - body
+    - 66
+    - 319
+  label: 對口
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d7
+    span:
+    - body
+    - 319
+    - 370
+  label: 正背發
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d8
+    span:
+    - body
+    - 370
+    - 537
+  label: 上搭手
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d9
+    span:
+    - body
+    - 537
+    - 736
+  label: 中搭手
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d10
+    span:
+    - body
+    - 736
+    - 907
+  label: 囊發
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d11
+    span:
+    - body
+    - 907
+    - 1055
+  label: 蛇頭疔
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2.d11d14
+    span:
+    - body
+    - 1023
+    - 1055
+  label: 蛇頭疔詩
+  type: section
+  level: 4
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d12
+    span:
+    - body
+    - 1055
+    - 1200
+  label: 天蛇頭毒
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek020_jc_003-d7.d2d13
+    span:
+    - body
+    - 1200
+    - 1445
+  label: 膝發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 2370
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8d2
+    span:
+    - body
+    - 3
+    - 2370
+  label: 面圖形十二症一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d6
+    span:
+    - body
+    - 46
+    - 199
+  label: 鬢髮
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d7
+    span:
+    - body
+    - 199
+    - 372
+  label: 眉發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d8
+    span:
+    - body
+    - 372
+    - 548
+  label: 耳發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d9
+    span:
+    - body
+    - 548
+    - 696
+  label: 頤發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d10
+    span:
+    - body
+    - 696
+    - 799
+  label: 鬚髮
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d11
+    span:
+    - body
+    - 799
+    - 936
+  label: 肩發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d12
+    span:
+    - body
+    - 936
+    - 1227
+  label: 乳發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d13
+    span:
+    - body
+    - 1227
+    - 1455
+  label: 胸發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d14
+    span:
+    - body
+    - 1455
+    - 1773
+  label: 手背發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d15
+    span:
+    - body
+    - 1773
+    - 2085
+  label: 小便毒便發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d16
+    span:
+    - body
+    - 2085
+    - 2227
+  label: 腳背發
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ek020_jc_004-d8.d2d17
+    span:
+    - body
+    - 2227
+    - 2370
+  label: 腳跟發
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 2111
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9d2
+    span:
+    - body
+    - 3
+    - 2111
+  label: 面圖形十二症二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d6
+    span:
+    - body
+    - 50
+    - 207
+  label: 頂癰
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d7
+    span:
+    - body
+    - 207
+    - 373
+  label: 赤面疔
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d8
+    span:
+    - body
+    - 373
+    - 536
+  label: 肩疽
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d9
+    span:
+    - body
+    - 536
+    - 917
+  label: 螻蛄串
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d10
+    span:
+    - body
+    - 917
+    - 1029
+  label: 乳根癰
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d11
+    span:
+    - body
+    - 1029
+    - 1185
+  label: 肚腹癰
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d12
+    span:
+    - body
+    - 1185
+    - 1391
+  label: 腎氣遊毒
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d13
+    span:
+    - body
+    - 1391
+    - 1905
+  label: 痔漏
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d14
+    span:
+    - body
+    - 1905
+    - 1972
+  label: 鞋帶癰
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ek020_jc_005-d9.d2d15
+    span:
+    - body
+    - 1972
+    - 2111
+  label: 腳心癰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 1714
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10d2
+    span:
+    - body
+    - 3
+    - 1714
+  label: 側圖形十一症
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d6
+    span:
+    - body
+    - 45
+    - 129
+  label: 眉風毒
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d7
+    span:
+    - body
+    - 129
+    - 225
+  label: 耳門癰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d8
+    span:
+    - body
+    - 225
+    - 317
+  label: 耳根癰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d9
+    span:
+    - body
+    - 317
+    - 432
+  label: 核癰
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d10
+    span:
+    - body
+    - 432
+    - 504
+  label: 中肩發
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d11
+    span:
+    - body
+    - 504
+    - 710
+  label: 大腰帶
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d12
+    span:
+    - body
+    - 710
+    - 837
+  label: 內肘毒
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d13
+    span:
+    - body
+    - 837
+    - 958
+  label: 內臁
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d14
+    span:
+    - body
+    - 958
+    - 1627
+  label: 外臁
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ek020_jc_006-d10.d2d15
+    span:
+    - body
+    - 1627
+    - 1714
+  label: 丫指毒
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.h1s1
+    span:
+    - body
+    - 0
+    - 2972
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11d2
+    span:
+    - body
+    - 3
+    - 2972
+  label: 側圖形十二症
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d6
+    span:
+    - body
+    - 44
+    - 702
+  label: 結喉風癰
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d7
+    span:
+    - body
+    - 702
+    - 803
+  label: 鬢疽
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d8
+    span:
+    - body
+    - 803
+    - 939
+  label: 赤面疔
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d9
+    span:
+    - body
+    - 939
+    - 1040
+  label: 頭癰
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d10
+    span:
+    - body
+    - 1040
+    - 1085
+  label: 挑針
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d11
+    span:
+    - body
+    - 1085
+    - 1741
+  label: 瘰癧
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d12
+    span:
+    - body
+    - 1741
+    - 2314
+  label: 馬刀瘡
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d13
+    span:
+    - body
+    - 2314
+    - 2410
+  label: 上脅癰
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d14
+    span:
+    - body
+    - 2410
+    - 2446
+  label: 下脅癰
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d15
+    span:
+    - body
+    - 2446
+    - 2586
+  label: 腿遊毒
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d16
+    span:
+    - body
+    - 2586
+    - 2875
+  label: 臀癰
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ek020_jc_007-d11.d2d17
+    span:
+    - body
+    - 2875
+    - 2972
+  label: 指丫刺
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2169
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12d2
+    span:
+    - body
+    - 3
+    - 2169
+  label: 面圖形十五症
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d6
+    span:
+    - body
+    - 75
+    - 253
+  label: 上下眼丹
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d7
+    span:
+    - body
+    - 253
+    - 411
+  label: 白麵疔
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d8
+    span:
+    - body
+    - 411
+    - 456
+  label: 須毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d9
+    span:
+    - body
+    - 456
+    - 516
+  label: 乳癰
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d10
+    span:
+    - body
+    - 516
+    - 589
+  label: 挾脅
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d11
+    span:
+    - body
+    - 589
+    - 734
+  label: 心腹肚癰
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d12
+    span:
+    - body
+    - 734
+    - 909
+  label: 肚便癰
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d13
+    span:
+    - body
+    - 909
+    - 1219
+  label: 手心毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d14
+    span:
+    - body
+    - 1219
+    - 1439
+  label: 手腕毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d15
+    span:
+    - body
+    - 1439
+    - 1717
+  label: 便毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d16
+    span:
+    - body
+    - 1717
+    - 1789
+  label: 鯉魚便毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d17
+    span:
+    - body
+    - 1789
+    - 2076
+  label: 鶴膝風
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d18
+    span:
+    - body
+    - 2076
+    - 2112
+  label: 膝腿毒
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ek020_jc_008-d12.d2d19
+    span:
+    - body
+    - 2112
+    - 2169
+  label: 腳拐毒
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ek020_jc_009-d13.h1s1
+    span:
+    - body
+    - 0
+    - 966
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ek020_jc_009-d13d2
+    span:
+    - body
+    - 3
+    - 966
+  label: 瘤症總論瘤症圖形十一症
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ek020_jc_009-d13.d2d6
+    span:
+    - body
+    - 63
+    - 966
+  label: 瘤症總論
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.h1s1
+    span:
+    - body
+    - 0
+    - 541
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14d2
+    span:
+    - body
+    - 3
+    - 541
+  label: 小兒圖形九症
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d6
+    span:
+    - body
+    - 31
+    - 86
+  label: 肥瘡
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d6d4
+    span:
+    - body
+    - 57
+    - 86
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d7
+    span:
+    - body
+    - 86
+    - 141
+  label: 軟癤
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d7d4
+    span:
+    - body
+    - 112
+    - 141
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d8
+    span:
+    - body
+    - 141
+    - 194
+  label: 癩頭瘡
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d8d4
+    span:
+    - body
+    - 165
+    - 194
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d9
+    span:
+    - body
+    - 194
+    - 347
+  label: 月蝕瘡
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d10
+    span:
+    - body
+    - 347
+    - 379
+  label: 牙核疳
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d11
+    span:
+    - body
+    - 379
+    - 429
+  label: 夾腮
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d11d4
+    span:
+    - body
+    - 400
+    - 429
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d12
+    span:
+    - body
+    - 429
+    - 486
+  label: 核疳
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d12d4
+    span:
+    - body
+    - 457
+    - 486
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2d13
+    span:
+    - body
+    - 486
+    - 541
+  label: 赤遊風
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ek020_jc_010-d14.d2.d13d4
+    span:
+    - body
+    - 512
+    - 541
+  label: 詩
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.h1s1
+    span:
+    - body
+    - 0
+    - 881
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15d2
+    span:
+    - body
+    - 4
+    - 881
+  label: 面圖形六症
+  type: section
+  level: 2
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d6
+    span:
+    - body
+    - 26
+    - 130
+  label: 上疳瘡
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2.d6d4
+    span:
+    - body
+    - 77
+    - 130
+  label: 西江月
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d7
+    span:
+    - body
+    - 130
+    - 293
+  label: 重舌
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2.d7d6
+    span:
+    - body
+    - 182
+    - 235
+  label: 西江月
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2.d7d7
+    span:
+    - body
+    - 235
+    - 293
+  label: 七律
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d8
+    span:
+    - body
+    - 293
+    - 699
+  label: 纏喉風
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d9
+    span:
+    - body
+    - 699
+    - 723
+  label: 泥鰍毒
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d10
+    span:
+    - body
+    - 723
+    - 756
+  label: 臍上瘡
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2.d10d2
+    span:
+    - body
+    - 726
+    - 756
+  label: 七絕
+  type: section
+  level: 4
+- ref:
+    seq: 11
+    marker_id: KR3ek020_jc_011-d15.d2d11
+    span:
+    - body
+    - 756
+    - 881
+  label: 下疳瘡
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.h1s1
+    span:
+    - body
+    - 0
+    - 3014
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16d2
+    span:
+    - body
+    - 4
+    - 3014
+  label: 婦人四症
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2d6
+    span:
+    - body
+    - 17
+    - 347
+  label: 頭風症
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2d7
+    span:
+    - body
+    - 347
+    - 479
+  label: 血風瘡
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2d8
+    span:
+    - body
+    - 479
+    - 827
+  label: 陰蝕
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2d9
+    span:
+    - body
+    - 827
+    - 908
+  label: 乳發
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2d10
+    span:
+    - body
+    - 908
+    - 3014
+  label: 附雜症便方
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2.d10d38
+    span:
+    - body
+    - 1296
+    - 2289
+  label: 七絕
+  type: section
+  level: 4
+- ref:
+    seq: 12
+    marker_id: KR3ek020_jc_012-d16.d2.d10d39
+    span:
+    - body
+    - 2289
+    - 3014
+  label: 西江月
+  type: section
+  level: 4
+hash: sha256:36f8e53a7852df706bec92fb55a8b7dc3b576f33d6adb8e0dd4b81f2879a3c41

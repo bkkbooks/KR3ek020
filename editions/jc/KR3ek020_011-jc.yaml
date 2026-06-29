@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR3ek020/jc/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷之十一面圖形六症上疳瘡重舌纏喉風泥鰍毒臍上瘡下疳瘡上疳瘡上疳生於口內牙根之上內爛涎水長流此是心脾積熱治用黃連切片研白礬飛過人言棗子包燒煙盡共為末搽之最妙西江月牙疳生於口內牙根肉爛如螬流涎水滴苦難熬此是心脾熱勞黃連切片重研白礬飛過輕敲棗子包信火中燒共末搽之最妙重舌重舌是舌下生舌由心中積熱治用防風荊芥黃連玄參麻黃升麻細研白芷羌活殭蠶鬱金各等分和合水同煎食後常將吞嚥西江月重舌心中積熱舌下生舌難言防風荊芥及黃連玄參升麻細研白芷羌活同伴殭蠶鬱金相摻等分和合水同煎食後常將吞嚥七律重舌重起病如何膽礬兒茶合同科雄黃熊膽青魚膽針完吹上笑呵呵一共用多立綱紀油塵一吐是奇方不然毒入心宮裡須防頃刻命消亡纏喉風纏喉風生於喉蛾之下或左而纏右或右而纏左此心肺熱毒上攻其毒最酷醫非神手十不救一也凡看此症纏不過結喉者十可治五六若纏過喉者十可治一二亦是醫之妙手方能如此也凡始覺以艾灸兩肩井兩曲池兩三里穴可使上下分其毒又以三稜針刺兩少商穴血出亦泄其毒切不可頭上用火灸若錯行火攻十不救一此症號死裡逃生再脫一骨胎也宜服拔毒羌活飲解毒升麻湯外少用敷藥使內外兩拔其毒可內消而愈矣如若外潰亦有可生之路潰後用萬靈膏長肉生肌如毒頭在口內亦無妨也常以椒鹽茴香湯漱口以解穢氣膿盡始安十四味托毒羌活飲羌活獨活升麻乾葛連翹桔根荊芥玄參黃耆黃連白芍當歸紫蘇白芷薑棗引食後服二十二味解毒升麻湯升麻人參川芎前胡枳殼羌活白芷二花連翹防風桂枝乾葛白芍甘草黃耆紫蘇蔓荊桔根玄參當歸荊芥黃連薑棗引食後服十四味敷方白芷白芨生地骨皮丹皮加皮腹皮忍冬車前益母牛膝公英牙皂青木香以上俱用酒洗用酒搗敷九味吹喉散熊膽雄黃乳香木香麝香硃砂兒茶螵蛸青魚膽以上共為末吹之勿睡輕輕咽之泥鰍毒泥鰍毒生於指中初起宜用艾灸將豬油調雄黃搽之臍上瘡七絕臍上生瘡常出水螵蛸礬末及雄黃蛤粉和合赤石脂干搽三日是神方下疳瘡下疳瘡生於陰頭之上乃濕熱相侵而然也有貪色而生有淫婦占精而生與穢婦行房而生初若無事既潰痛不可忍用花椒陳茶艾葉桃柳槐葉共煎水洗之外用兒茶黃柏雄黃螵蛸輕粉蛤粉枯礬共為末搽之又十三味方黃連木通豬苓赤芍檳榔白朮車前甘草忍冬川芎紫蘇厚朴連翹空心服忌房事一月
+  hash: sha256:f5b599dbc06c403e35ed5e65d76c28aaa21a80465a62fbd473e49b7d6fe44226
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ek020_jc_011-d15.h1s1}
+  - {type: 'tls:div-start', offset: 4, content: '', id: KR3ek020_jc_011-d15d2, level: 2, head_text: 面圖形六症}
+  - {type: 'tls:head', offset: 4, content: '', id: KR3ek020_jc_011-d15.d2.h1s1}
+  - {type: 'tls:div-start', offset: 26, content: '', id: KR3ek020_jc_011-d15.d2d6, level: 3, head_text: 上疳瘡}
+  - {type: 'tls:head', offset: 26, content: '', id: KR3ek020_jc_011-d15.d2.d6.h1s1}
+  - {type: 'tls:div-start', offset: 77, content: '', id: KR3ek020_jc_011-d15.d2.d6d4, level: 4, head_text: 西江月}
+  - {type: 'tls:head', offset: 77, content: '', id: KR3ek020_jc_011-d15.d2.d6.d4.h1s1}
+  - {type: 'tls:div-end', offset: 130, content: '', id: KR3ek020_jc_011-d15.d2.d6d4}
+  - {type: 'tls:div-end', offset: 130, content: '', id: KR3ek020_jc_011-d15.d2d6}
+  - {type: 'tls:div-start', offset: 130, content: '', id: KR3ek020_jc_011-d15.d2d7, level: 3, head_text: 重舌}
+  - {type: 'tls:head', offset: 130, content: '', id: KR3ek020_jc_011-d15.d2.d7.h1s1}
+  - {type: 'tls:div-start', offset: 182, content: '', id: KR3ek020_jc_011-d15.d2.d7d6, level: 4, head_text: 西江月}
+  - {type: 'tls:head', offset: 182, content: '', id: KR3ek020_jc_011-d15.d2.d7.d6.h1s1}
+  - {type: 'tls:div-end', offset: 235, content: '', id: KR3ek020_jc_011-d15.d2.d7d6}
+  - {type: 'tls:div-start', offset: 235, content: '', id: KR3ek020_jc_011-d15.d2.d7d7, level: 4, head_text: 七律}
+  - {type: 'tls:head', offset: 235, content: '', id: KR3ek020_jc_011-d15.d2.d7.d7.h1s1}
+  - {type: 'tls:div-end', offset: 293, content: '', id: KR3ek020_jc_011-d15.d2.d7d7}
+  - {type: 'tls:div-end', offset: 293, content: '', id: KR3ek020_jc_011-d15.d2d7}
+  - {type: 'tls:div-start', offset: 293, content: '', id: KR3ek020_jc_011-d15.d2d8, level: 3, head_text: 纏喉風}
+  - {type: 'tls:head', offset: 293, content: '', id: KR3ek020_jc_011-d15.d2.d8.h1s1}
+  - {type: 'tls:div-end', offset: 699, content: '', id: KR3ek020_jc_011-d15.d2d8}
+  - {type: 'tls:div-start', offset: 699, content: '', id: KR3ek020_jc_011-d15.d2d9, level: 3, head_text: 泥鰍毒}
+  - {type: 'tls:head', offset: 699, content: '', id: KR3ek020_jc_011-d15.d2.d9.h1s1}
+  - {type: 'tls:div-end', offset: 723, content: '', id: KR3ek020_jc_011-d15.d2d9}
+  - {type: 'tls:div-start', offset: 723, content: '', id: KR3ek020_jc_011-d15.d2d10, level: 3, head_text: 臍上瘡}
+  - {type: 'tls:head', offset: 723, content: '', id: KR3ek020_jc_011-d15.d2.d10.h1s1}
+  - {type: 'tls:div-start', offset: 726, content: '', id: KR3ek020_jc_011-d15.d2.d10d2, level: 4, head_text: 七絕}
+  - {type: 'tls:head', offset: 726, content: '', id: KR3ek020_jc_011-d15.d2.d10.d2.h1s1}
+  - {type: 'tls:div-end', offset: 756, content: '', id: KR3ek020_jc_011-d15.d2.d10d2}
+  - {type: 'tls:div-end', offset: 756, content: '', id: KR3ek020_jc_011-d15.d2d10}
+  - {type: 'tls:div-start', offset: 756, content: '', id: KR3ek020_jc_011-d15.d2d11, level: 3, head_text: 下疳瘡}
+  - {type: 'tls:head', offset: 756, content: '', id: KR3ek020_jc_011-d15.d2.d11.h1s1}
+  - {type: 'tls:div-end', offset: 881, content: '', id: KR3ek020_jc_011-d15.d2d11}
+  - {type: 'tls:div-end', offset: 881, content: '', id: KR3ek020_jc_011-d15d2}
+metadata:
+  title: 萬氏秘傳外科心法
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek020.xml
+hash: sha256:79de3bd284722e03add7d23c5b870a696d9192f06ef98eba55e3fcef01ebeedf
